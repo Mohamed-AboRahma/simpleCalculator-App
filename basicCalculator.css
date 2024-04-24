@@ -24,7 +24,11 @@
   display: inline-block;
   margin-bottom: 5px;
   text-indent: 5px;
-  transition: all 0.5s ease-in-out;
+}
+.error {
+  font-size: 14px;
+  font-weight: initial;
+  color: red;
 }
 .buttons {
   display: grid;
